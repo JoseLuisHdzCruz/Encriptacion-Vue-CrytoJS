@@ -56,6 +56,12 @@ export default {
 </script>
 
 <style scoped>
+html, body {
+  height: 100%; /* Asegura que el cuerpo ocupe toda la altura de la ventana */
+  margin: 0;
+  padding: 0;
+}
+
 body {
   background: url('@/assets/background.png') no-repeat center center fixed;
   background-size: cover;
