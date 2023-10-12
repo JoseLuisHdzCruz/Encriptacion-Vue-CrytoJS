@@ -58,6 +58,10 @@ export default {
 </script>
 
 <style scoped>
+body {
+  background: url('@/assets/background.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
 .card-img-left {
     width: 45%;
     background: scroll center url('@/assets/cifrado-login.png');
