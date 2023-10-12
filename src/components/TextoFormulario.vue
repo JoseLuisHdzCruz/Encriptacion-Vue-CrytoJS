@@ -23,8 +23,6 @@
                 <input v-model="outputText" type="text" class="form-control" required />
                 <label for="output">Salida</label>
               </div>
-  
-              <a class="text-primary" href="/cifradoPersonalizado.html">Cifrar por saltos personalizados</a>
             </div>
           </div>
         </div>
