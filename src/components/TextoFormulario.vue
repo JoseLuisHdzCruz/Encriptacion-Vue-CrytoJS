@@ -57,7 +57,7 @@ export default {
 
 <style scoped>
 body {
-  background: url('@/assets/background.jpg') no-repeat center center fixed;
+  background: url('@/assets/background.png') no-repeat center center fixed;
   background-size: cover;
 }
 .card-img-left {
